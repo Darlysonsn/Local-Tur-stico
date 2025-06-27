@@ -1,0 +1,144 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  line-height: 150%;
+  color: #1b1b1b;
+}
+
+#page {
+  margin: 64px 64px 0;
+}
+
+#page h4 {
+  margin-bottom: 8px;
+}
+
+#page h1 {
+  margin-bottom: 40px;
+}
+
+#page p {
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic;
+  text-align: center;
+  color: #333333;
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+main {
+  margin: 64px;
+}
+
+main ul li {
+  margin-left: 20px;
+}
+
+main h5 {
+  margin-top: 15px;
+}
+
+main p {
+  text-align: justify;
+}
+
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  color: #e1624f;
+  text-transform: uppercase;
+}
+
+main div img {
+  height: 375px;
+  object-fit: cover;
+  margin-top: 44px;
+}
+
+section ul,
+#Yonggungsan ul {
+  margin-bottom: 40px;
+}
+
+#history h1 {
+  margin: 4px 0 8px;
+}
+
+#haedong h1, #beomeo h1, #Yonggungsan h1{
+    margin: 20px 0 4px;
+}
+
+#history p {
+  margin-bottom: 64px;
+}
+
+h6 {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
+ul {
+  color: #0C51A7;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+ul li::marker {
+  color: #333333;
+}
+
+.casais {
+  color: #6D28D9;
+  font-weight: bold;
+}
+
+.familias {
+  color: #F43F5E;
+  font-weight: bold;
+}
+
+.orcamento {
+  color: #F97316;
+  font-weight: bold;
+}
+
+#rodape {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+  color: #333333;
+}
+
+footer {
+  margin-bottom: 40px;
+  text-align: center;
+  color: #333333;
+  font-size: 16px;
+}
+
+footer img {
+  max-width: 16px;
+  vertical-align: middle;
+}
