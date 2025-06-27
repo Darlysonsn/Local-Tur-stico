@@ -2,6 +2,7 @@
 
 Este é um projeto desenvolvido durante o curso Fullstack da Rocketseat , consistindo em uma página que apresenta um local turistico com foco em organização.
 
+
 🛠 Tecnologias Utilizadas:
 
 HTML – Estruturação do conteúdo
