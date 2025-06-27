@@ -9,43 +9,20 @@ CSS – Estilização da interface
 
 💡 Conceitos Aplicados:
 
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Estrutura HTML;
+Estrutura HTML;
 
-</aside>
+Fontes;
 
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Estilizações com CSS;
+Imagens;
 
-</aside>
+Alterações das cores dos textos;
 
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Fontes;
+Estilizações com CSS;
 
-</aside>
+Espaçamentos;
 
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Espaçamentos;
+Listas desordenadas;
 
-</aside>
+Alterações dos pesos dos textos;
 
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Imagens;
-
-</aside>
-
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Listas desordenadas;
-
-</aside>
-
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Alterações das cores dos textos;
-
-</aside>
-
-<aside>
-<img src="/icons/checkmark-line_purple.svg" alt="/icons/checkmark-line_purple.svg" width="40px" /> Alterações dos pesos dos textos;
-
-</aside>
 Essa página demonstra habilidades fundamentais em desenvolvimento front-end, mostrando como os conceitos teóricos foram colocados em prática para criar uma experiência de usuário eficiente e atrativa.
